@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 portainer/portainer
 registry.cn-hangzhou.aliyuncs.com/zhuyijun/oracle-12c
+registry.cn-hangzhou.aliyuncs.com/laowu/oracle:12.2.0.1.0
